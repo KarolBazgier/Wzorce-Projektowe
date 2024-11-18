@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FiltrAndSort/FiltrAndSort.iml" filepath="$PROJECT_DIR$/FiltrAndSort/FiltrAndSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kalkulator/Kalkulator.iml" filepath="$PROJECT_DIR$/Kalkulator/Kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Registration/Registration.iml" filepath="$PROJECT_DIR$/Registration/Registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextValidator/TextValidator.iml" filepath="$PROJECT_DIR$/TextValidator/TextValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wzorce.iml" filepath="$PROJECT_DIR$/.idea/wzorce.iml" />
+    </modules>
+  </component>
+</project>
